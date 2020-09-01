@@ -23,12 +23,13 @@ GIT is a version control system that keep tracks of oyur source code history. By
 GITHUB is a cloud based hosting service that lets you manage GIT Repositories. GITHUB allows you to better manage your git respositories.
 
 3.CREATE A NEW BRANCH
-  -Click the dropdown menu and type your new branch name and hit Enter
+  -Click the dropdown menu and type your new branch name and hit Enter.
   - Now you can add or delelete different lines of code.
+  -where you add webstorm projects.
  
  4.MAKE COMMIT CHANGES
-  -click on readme.md files
-  -click on the pencil and write a message
+  -click on readme.md files.
+  -click on the pencil and write a message.
   -write a commit message
   -Commit changes 
 
@@ -40,5 +41,5 @@ GITHUB is a cloud based hosting service that lets you manage GIT Repositories. G
   6.Merge PULL REQUEST
     -click green merge pull request button to merge the chnages into  main
     -click confirm merge
-    -. go and delte the branch since its changes have not been incororporated with the delete branch button in the purple box
+    -go and delte the branch since its changes have not been incororporated with the delete branch button in the purple box
    **************Congrats you have navigated git and github**********************************************************************
