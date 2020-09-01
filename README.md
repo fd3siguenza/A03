@@ -17,5 +17,7 @@
     -Fetch(When you use git fetch, you're adding changes from the remote repository to your local working branch without committing them. Unlike git pull)
     -Remote(This is the version of a repository or branch that is hosted on a server, most likely GitHub.com. Remote versions can be connected to local clones so that changes can be synced.)
 
-2.  
+2.
+  -Great look how far you have made it you have made a GIT account and you have already updated your knowledgee of key terms when using git.
+  -Now we must understand the process of using git and github. Lets make a new local repository 
   
