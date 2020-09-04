@@ -21,9 +21,9 @@
 -GITHUB is a cloud based hosting service that lets you manage GIT Repositories. GITHUB allows you to better manage your git respositories.
 
 3.CREATE A NEW BRANCH
-  -Click the dropdown menu and type your new branch name and hit Enter.
+  - Click the dropdown menu and type your new branch name and hit Enter.
   - Now you can add or delelete different lines of code.
-  -where you add webstorm projects.
+  - where you add webstorm projects.
  
  4.MAKE COMMIT CHANGES
   -click on readme.md files.
