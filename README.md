@@ -1,7 +1,7 @@
 # Welcome To GITHUB
 
 1.You signed up for GitHub now what else?
-First lets famliarize ourselves with some terminology first
+-First lets famliarize ourselves with some terminology first
 1.GIT=(open source program for tracking changes in files, it is the core technology of github. Social and User interface is built on top)
 1.GITHUB=(GitHub is a web-based hosting service for software development projects that use the Git revision control system)
     -Repository=(A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.)
