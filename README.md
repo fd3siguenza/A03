@@ -1,6 +1,7 @@
 # Welcome To GITHUB
 
 1.You signed up for GitHub now what else?
+
     - First lets famliarize ourselves with some terminology first
     - GIT=(open source program for tracking changes in files, it is the core technology of github. Social and User interface is built on top)
     - GITHUB=(GitHub is a web-based hosting service for software development projects that use the Git revision control system)
@@ -36,8 +37,9 @@
   - slect branch you made and compare to the orginal.
   - look over changed in the compare package and make sure thats what you want to submit
   - Give request a title and a brief description of your changes, then click pull request.
-  6.Merge PULL REQUEST
-    - click green merge pull request button to merge the chnages into  main
-    - click confirm merge
-    - go and delte the branch since its changes have not been incororporated with the delete branch button in the purple box
+ 
+ 6.Merge PULL REQUEST
+   - click green merge pull request button to merge the chnages into  main
+   - click confirm merge
+   - go and delte the branch since its changes have not been incororporated with the delete branch button in the purple box
     **************Congrats you have navigated git and github**********************************************************************
