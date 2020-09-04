@@ -1,6 +1,7 @@
 # Welcome To GITHUB
 
-1.You signed up for GitHub now what else?
+1.
+You signed up for GitHub now what else?
 -First lets famliarize ourselves with some terminology first
 1.GIT=(open source program for tracking changes in files, it is the core technology of github. Social and User interface is built on top)
 1.GITHUB=(GitHub is a web-based hosting service for software development projects that use the Git revision control system)
