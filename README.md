@@ -18,9 +18,9 @@
     -Remote(This is the version of a repository or branch that is hosted on a server, most likely GitHub.com. Remote versions can be connected to local clones so that changes can be synced.)
 
 2.
-GIT vs GITHUB
-GIT is a version control system that keep tracks of oyur source code history. By tracking either ids,date, GIT allows user access to different *Versions* of their work.
-GITHUB is a cloud based hosting service that lets you manage GIT Repositories. GITHUB allows you to better manage your git respositories.
+-GIT vs GITHUB
+-GIT is a version control system that keep tracks of oyur source code history. By tracking either ids,date, GIT allows user access to different *Versions* of their work.
+-GITHUB is a cloud based hosting service that lets you manage GIT Repositories. GITHUB allows you to better manage your git respositories.
 
 3.CREATE A NEW BRANCH
   -Click the dropdown menu and type your new branch name and hit Enter.
